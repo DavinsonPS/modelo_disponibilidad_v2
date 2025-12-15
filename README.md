@@ -73,6 +73,10 @@ venv\Scripts\activate
 # En Linux/Mac
 source venv/bin/activate
 ```
+### 2.1 Actualizar PIP
+```bash
+python.exe -m pip install --upgrade pip
+```
 
 ### 3. Instalar dependencias
 
